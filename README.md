@@ -1,0 +1,2 @@
+# hanafuda4pythonista
+花札の得点をカウントするPythonista用アプリ
